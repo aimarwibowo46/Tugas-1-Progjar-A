@@ -1,4 +1,4 @@
 # Tugas 1 Progjar A
 
 ## Link Demo 
-<a href="https://youtu.be/PEzus24cNFs">Youtube</a>
+#### https://www.youtube.com/watch?v=PEzus24cNFs
